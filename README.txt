@@ -4,11 +4,6 @@ This is the first file in this repo.
 
 read this.
 
-## Ipsum Below
+WEBSITE CONTENT
 
-somethingsomething askldmadlkm clich
-
-kitsch
-close
-
-Addubg more shit
+1. index.html
